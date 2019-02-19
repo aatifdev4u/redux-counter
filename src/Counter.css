@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.counter{
+    padding: 1em;
+    margin: 0 auto;
+    border: 2px solid #ddd;
+    width: 30%;
+    text-align: center;
+}
+
+.decrement, .increment {
+    font-size: 2em;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 9px;
+    cursor: pointer;
+}
